@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: e-deastudio
   productName: Runner Test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -831,7 +831,7 @@ PlayerSettings:
     Game Performance: 0
     Purchasing: 0
     UDP: 0
-    Unity Ads: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -846,11 +846,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 94b42d5c-1f3c-4eca-882c-0a295509e444
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Hypercasual
-  organizationId: 
+  projectName: Runner Test
+  organizationId: edea-studio
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
